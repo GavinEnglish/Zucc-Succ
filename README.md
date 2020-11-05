@@ -1,6 +1,6 @@
 # Zucc-Succ
 
-
+Zucc Succ was the first ever project that I made on MIT app inventor by myself.
 
 
 
